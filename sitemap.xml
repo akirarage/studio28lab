@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://subject28lab.com/</loc></url>
-  <url><loc>https://subject28lab.com/photography/</loc></url>
-  <url><loc>https://subject28lab.com/3d-art/</loc></url>
-  <url><loc>https://subject28lab.com/digital-art/</loc></url>
-  <url><loc>https://subject28lab.com/graphic-design/</loc></url>
+  <url>
+    <loc>https://subject28lab.com/</loc>
+  </url>
+  <url>
+    <loc>https://subject28lab.com/photography/</loc>
+  </url>
+  <url>
+    <loc>https://subject28lab.com/3d-art/</loc>
+  </url>
+  <url>
+    <loc>https://subject28lab.com/digital-art/</loc>
+  </url>
+  <url>
+    <loc>https://subject28lab.com/graphic-design/</loc>
+  </url>
 </urlset>
